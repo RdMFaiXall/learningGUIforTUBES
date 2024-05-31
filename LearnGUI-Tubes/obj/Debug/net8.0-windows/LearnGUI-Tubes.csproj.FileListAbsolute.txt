@@ -1,0 +1,16 @@
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\bin\Debug\net8.0-windows\LearnGUI-Tubes.exe
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\bin\Debug\net8.0-windows\LearnGUI-Tubes.deps.json
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\bin\Debug\net8.0-windows\LearnGUI-Tubes.runtimeconfig.json
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\bin\Debug\net8.0-windows\LearnGUI-Tubes.dll
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\bin\Debug\net8.0-windows\LearnGUI-Tubes.pdb
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI_Tubes.Form1.resources
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.csproj.GenerateResource.cache
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.AssemblyInfoInputs.cache
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.AssemblyInfo.cs
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.csproj.CoreCompileInputs.cache
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.dll
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\refint\LearnGUI-Tubes.dll
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.pdb
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\LearnGUI-Tubes.genruntimeconfig.cache
+C:\Programing\C#\LearnGUI-Tubes\LearnGUI-Tubes\obj\Debug\net8.0-windows\ref\LearnGUI-Tubes.dll
